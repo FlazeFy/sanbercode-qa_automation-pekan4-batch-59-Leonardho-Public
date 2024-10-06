@@ -1,4 +1,4 @@
-describe('Auth Module', () => {
+describe('Product Module', () => {
     it('TC-PD-001 - User can see all product that contain image, product name, description, and price in dollar (Positive)', () => {
         // Test Data
         const username = "standard_user"
